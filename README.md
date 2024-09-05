@@ -1,6 +1,6 @@
 # Time Table Automation
 
-This is a basic Time Table Automation project initiated and mentored by Professor Neeraj Tyagi. The project aims to automate the creation and management of timetables for  academic institutions .
+This is a basic Time Table Automation project initiated by our team members. The project aims to automate the creation and management of timetables for  academic institutions .
 
 ## Features
 
@@ -49,4 +49,4 @@ Contributions to the Time Table Automation project are welcome! If you have any 
 
 ## Acknowledgements
 
-Special thanks to Professor Neeraj Tyagi for initiating and mentoring this project.
+I am grateful to my team members, for their collaboration, innovative ideas, and relentless efforts. Their contributions were invaluable and made this project a success.
